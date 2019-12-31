@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-import com.codbking.widget.DatePickDialog;
+import com.codbking.widget.DatePickerDialog;
 import com.codbking.widget.bean.DateType;
 
 import java.util.Date;
@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void showDatePickDialog(DateType type) {
-        DatePickDialog dialog = new DatePickDialog(this);
+        DatePickerDialog dialog = new DatePickerDialog(this);
         //设置上下年分限制
         dialog.setYearLimt(5);
         dialog.setHistory(false);
