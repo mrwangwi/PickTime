@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PickTime.iml" filepath="$PROJECT_DIR$/PickTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/PickTime-app.iml" filepath="$PROJECT_DIR$/app/PickTime-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylibrary/PickTime-mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/PickTime-mylibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
     </modules>
